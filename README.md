@@ -21,7 +21,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-1. Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change, for example Building a mobile app where user feedback will shape the product, requiring constant iterations and adjustments
+1. Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change, for example Building a mobile app where user feedback will shape the product, requiring constant iterations and adjustments.
 2. Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall. For example, Developing software for a banking system where every requirement is well defined, and changes are minimal.
     
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
